@@ -1,0 +1,242 @@
+<resources>
+    <!--App name title-->
+    <string name="app_name">Tour Bellingham</string>
+
+    <!-- Address for Dakota Art -->
+    <string name="art_dakota_address">1322 Cornwall Ave.\nBellingham, WA 98225</string>
+
+    <!-- Address for Lightcatcher -->
+    <string name="art_lightcatcher_address">250 Flora St.\nBellingham, WA 98225</string>
+
+    <!-- Address for Make.Shift -->
+    <string name="art_makeshift_address">306 Flora St.\nBellingham, WA 98225</string>
+
+    <!-- Address for Mindport Exhibits -->
+    <string name="art_mindport_address">210 W Holly St.\nBellingham, WA 98225</string>
+
+    <!-- Address for Spark Museum -->
+    <string name="art_spark_address">1312 Bay St.\nBellingham, WA 98225</string>
+
+    <!-- Address for Whatcom Museum -->
+    <string name="art_whatcom_museum_address">121 Prospect St.\nBellingham, WA 98225</string>
+
+    <!-- Address for Aslan Brewery -->
+    <string name="brewery_aslan_address">1330 N Forest St.\nBellingham, WA 98225</string>
+
+    <!-- Address for Kulshan Brewery -->
+    <string name="brewery_kulshan_address">1538 Kentucky St.\nBellingham, WA 98229</string>
+
+    <!-- Address for Melvin Brewery -->
+    <string name="brewery_melvin_address">2416 Meridian St.\nBellingham, WA 98225</string>
+
+    <!-- Address for Stones Throw -->
+    <string name="brewery_stones_throw_address">1009 Larrabee Ave.\nBellingham, WA 98225</string>
+
+    <!-- Address for Twin Sisters -->
+    <string name="brewery_twin_sisters_address">500 Carolina St.\nBellingham, WA 98225</string>
+
+    <!-- Address for Wander Brewery -->
+    <string name="brewery_wander_address">1807 Dean Ave.\nBellingham, WA 98225</string>
+
+    <!-- Address Cafe Adagio -->
+    <string name="cafe_adagio_address">1435 Railroad Ave.\nBellingham, WA 98225</string>
+
+    <!-- Address Blackdrop Coffee -->
+    <string name="cafe_blackdrop_address">300 W Champion St.\nBellingham, WA 98225</string>
+
+    <!-- Address Camber -->
+    <string name="cafe_camber_address">221 W Holly St\nBellingham, WA 98225</string>
+
+    <!-- Address Lettered Streets -->
+    <string name="cafe_lettered_address">1001 Dupont St.\nBellingham, WA 98225</string>
+
+    <!-- Address Primer Coffee -->
+    <string name="cafe_primer_address">1400 W Holly St #102\nBellingham, WA 98225</string>
+
+    <!-- Address Velo Coffee -->
+    <string name="cafe_velo_address">120 Prospect St #2\nBellingham, WA 98225</string>
+
+    <!-- Address Akroteri -->
+    <string name="food_akroteri_address">1219 Cornwall Ave.\nBellingham, WA 98225</string>
+
+    <!-- Address Boomers  -->
+    <string name="food_boomers_address">310 N Samish Way\nBellingham, WA 98225</string>
+
+    <!-- Address Brother Dudes -->
+    <string name="food_brother_dudes_address">202 E Holly St #117\nBellingham, WA 98225</string>
+
+    <!-- Address Kombucha Town -->
+    <string name="food_kombucha_address">210 E Chestnut St\nBellingham, WA 98225</string>
+
+    <!-- Address Leaf and Ladle -->
+    <string name="food_leaf_ladle_address">1113 N State St\nBellingham, WA 98225</string>
+
+    <!-- Address Man Pies -->
+    <string name="food_man_pies_address">1215 Railroad Ave.\nBellingham, WA 98225</string>
+
+    <!-- Address Rock and Rye -->
+    <string name="food_rock_rye_address">1145 N State St\nBellingham, WA 98225</string>
+
+    <!-- Title Aslan -->
+    <string name="brewery_aslan">Aslan Brewery</string>
+
+    <!-- Title Kulshan -->
+    <string name="brewery_kulshan">Kulshan Brewery</string>
+
+    <!-- Title Melvin -->
+    <string name="brewery_melvin">Melvin Brewery</string>
+
+    <!-- Title Stones Throw -->
+    <string name="brewery_stones">Stones Throw Brewery</string>
+
+    <!-- Title Twin Sisters -->
+    <string name="brewery_twin_sisters">Twin Sisters Brewery</string>
+
+    <!-- Title Wander Brewery -->
+    <string name="brewery_wander">Wander Brewery</string>
+
+    <!-- Title Dakota Art -->
+    <string name="art_dakota">Dakota Art Gallery</string>
+
+    <!-- Title Lightcatcher Museum -->
+    <string name="art_lightcatcher">Lightcatcher Museum</string>
+
+    <!-- Title Make.Shift Gallery -->
+    <string name="art_makeshift">Make.Shift Art Gallery</string>
+
+    <!-- Title Mindport Exhibits -->
+    <string name="art_mindport">Mindport Exhibits</string>
+
+    <!-- Title Spark Museum -->
+    <string name="art_spark">Spark Museum</string>
+
+    <!-- Title Whatcom Museum -->
+    <string name="art_whatcom">Whatcom Museum</string>
+
+    <!-- Title Adagio Cafe -->
+    <string name="cafe_adagio">Cafe Adagio</string>
+
+    <!-- Title Blackdrop Coffee -->
+    <string name="cafe_blackdrop">Blackdrop Coffee </string>
+
+    <!-- Title Camber -->
+    <string name="cafe_camber">Camber</string>
+
+    <!-- Title Lettered Streets Coffee -->
+    <string name="cafe_lettered">Lettered Streets Coffee</string>
+
+    <!-- Title Primer Coffee -->
+    <string name="cafe_primer">Primer Coffee</string>
+
+    <!-- Title Velo Coffee -->
+    <string name="cafe_velo">CAFE VELO</string>
+
+    <!-- Title Akroteri -->
+    <string name="food_akroteri">Cafe Akroteri</string>
+
+    <!-- Title Boomers -->
+    <string name="food_boomers">Boomers Drive-In</string>
+
+    <!-- Title Borther Dudes -->
+    <string name="food_brother_dudes">Brother Dudes</string>
+
+    <!-- Title Kombucha Town -->
+    <string name="food_kombucha">Kombucha Town</string>
+
+    <!-- Title Leaf and Ladle -->
+    <string name="food_leaf_laddle">Leaf and Ladel</string>
+
+    <!-- Title Man Pies -->
+    <string name="food_man_pies">Man Pies</string>
+
+    <!-- Title Rock and Rye -->
+    <string name="food_rock_rye">Rock and Rye</string>
+
+    <!-- Website Dakota -->
+    <string name="art_dakota_website">https://www.facebook.com/Dakota-Gallery-261301651305859/</string>
+
+    <!-- Website Lightcatcher -->
+    <string name="art_lightcatcher_website">https://www.whatcommuseum.org/</string>
+
+    <!-- Website Make.Shift -->
+    <string name="art_makeshift_website">https://www.makeshiftproject.com/</string>
+
+    <!-- Website Mindport Exhibits -->
+    <string name="art_mindport_website">https://www.mindport.org/</string>
+
+    <!-- Website Spark Museum -->
+    <string name="art_spark_website">https://www.sparkmuseum.org/</string>
+
+    <!-- Website Whatcom Museum -->
+    <string name="art_whatcom_website">https://www.whatcommuseum.org/</string>
+
+    <!-- Website Aslan -->
+    <string name="brewery_aslan_website">https://www.aslanbrewing.com/</string>
+
+    <!-- Website Kulshan -->
+    <string name="brewery_kulshan_website">https://www.kulshanbrewing.com/</string>
+
+    <!-- Website Melvin -->
+    <string name="brewery_melvin_website">https://www.melvinbrewing.com/</string>
+
+    <!-- Website Stones Throw -->
+    <string name="brewery_stones_website">https://www.stonesthrowbrewco.com/</string>
+
+    <!-- Website Twin Sisters -->
+    <string name="brewery_twin_sisters_website">https://www.twinsistersbrewing.com/</string>
+
+    <!-- Website Wander -->
+    <string name="brewery_wander_website">https://www.wanderbrewing.com/</string>
+
+    <!-- Website Adagio -->
+    <string name="cafe_adagio_website">https://www.facebook.com/letteredstreetscoffeehouse/</string>
+
+    <!-- Website Blackdrop -->
+    <string name="cafe_blackdrop_website">https://www.blackdropcoffeehouse.com/</string>
+
+    <!-- Website Camber -->
+    <string name="cafe_camber_website">https://www.cambercoffee.com/flagship/</string>
+
+    <!-- Website Lettered -->
+    <string name="cafe_lettered_website">https://www.facebook.com/letteredstreetscoffeehouse/</string>
+
+    <!-- Website Primer -->
+    <string name="cafe_primer_website">https://www.primercoffee.com/</string>
+
+    <!-- Website Velo -->
+    <string name="cafe_velo_website">https://www.cafe-velo.cc/</string>
+
+    <!-- Website Akroteri -->
+    <string name="food_akroteri_website">https://www.cafeakroteri.com/</string>
+
+    <!-- Website Boomers -->
+    <string name="food_boomers_website">https://www.boomersdrivein.com/</string>
+
+    <!-- Website Brother Dudes -->
+    <string name="food_brother_dudes_website">https://www.brothadudes.com/</string>
+
+    <!-- Website Kombucha -->
+    <string name="food_kombucha_website">https://www.kombuchatown.com/culturecafe/</string>
+
+    <!-- Website Leaf and Ladle -->
+    <string name="food_leaf_ladle_website">https://www.facebook.com/LeafandLadle/</string>
+
+    <!-- Website Man Pies -->
+    <string name="food_man_pies_website">https://www.manpies.com/</string>
+
+    <!-- Website Rock and Rye -->
+    <string name="food_rock_rye_website">https://www.rockrye.com/</string>
+
+    <!--Category Art-->
+    <string name="category_art">Art</string>
+
+    <!--Category Brewery-->
+    <string name="category_brewery">Brewery</string>
+
+    <!--Category Cafe-->
+    <string name="category_cafe">Cafe</string>
+
+    <!--Category food-->
+    <string name="category_food">Food</string>
+
+</resources>

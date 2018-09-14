@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#31708E</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#0D4763</color>
+    <!-- Accent color  of the app-->
+    <color name="colorAccent">#8860D0</color>
+
+    <!-- Background color for art category-->
+    <color name="category_art">#604C4E</color>
+
+    <!-- Background color for brewery category-->
+    <color name="category_brewery">#465443</color>
+
+    <!-- Background color for cafe category-->
+    <color name="category_cafe">#64584F</color>
+
+    <!-- Background color for food category-->
+    <color name="category_food">#32403D</color>
+
+</resources>
